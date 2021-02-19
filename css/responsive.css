@@ -1,0 +1,28 @@
+
+
+@media (min-width: 576px) { 
+    .person-img {
+        height: 40vh;
+        width: 20vh;
+    }
+ }
+
+@media (min-width: 768px) { 
+    .person-img {
+        height: 55vh;
+        width: 45vh;
+    }
+ }
+
+@media (min-width: 992px) { 
+    .person-img {
+    height: 60vh;
+    width: 55vh;
+} }
+
+@media (min-width: 1200px) {
+    .person-img {
+        height: 80vh;
+        width: 60vh;
+    }
+ }
